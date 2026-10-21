@@ -1,0 +1,2 @@
+checkpoint,batch_size,active_weights,total_weights,achieved_sparsity,dense_macs_per_sample,sparse_macs_per_sample,dense_median_ms,sparse_median_ms,sparse_over_dense_latency
+magnitude_s90_seed7.npz,64,118,1184,0.9003378378378378,1184,118,0.01619989052414894,0.23200002033263445,14.321085688004828

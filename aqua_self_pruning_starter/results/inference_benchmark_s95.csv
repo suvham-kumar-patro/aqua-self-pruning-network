@@ -1,0 +1,2 @@
+target_sparsity,achieved_sparsity,batch_size,dense_macs_per_sample,sparse_macs_per_sample,dense_median_ms,sparse_median_ms,latency_speedup
+0.95,0.950168918918919,64,1184,59,0.07020001066848636,0.24859997211024165,0.28238141007254886

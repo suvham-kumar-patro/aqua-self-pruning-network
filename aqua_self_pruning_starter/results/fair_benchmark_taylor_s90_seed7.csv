@@ -1,0 +1,2 @@
+checkpoint,batch_size,active_weights,total_weights,achieved_sparsity,dense_macs_per_sample,sparse_macs_per_sample,dense_median_ms,sparse_median_ms,sparse_over_dense_latency
+taylor_s90_seed7.npz,64,118,1184,0.9003378378378378,1184,118,0.016300007700920105,0.23520004469901323,14.42944377785396
